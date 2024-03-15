@@ -16,7 +16,7 @@
 
 ### 历史版本：
 
-如想查看更多版本变更历史，请查看 [版本变更记录](http://css.doyoe.com/introduction/change-list.htm)
+如想查看更多版本变更历史，请查看 [版本变更记录](introduction/change-list.htm)
 
 
 ## 问题及反馈

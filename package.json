@@ -3,17 +3,17 @@
   "title": "CSS参考手册",
   "description": "CSS参考手册V4.2.7_Web前端开发参考手册系列",
   "version": "4.2.7",
-  "homepage": "http://css.doyoe.com/",
+  "homepage": "http://css.gengxiaofei.com/",
   "author": {
     "name": "doyoe",
-    "url": "https://github.com/doyoe"
+    "url": "https://github.com/huanmie913/css-handbook"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doyoe/css-handbook.git"
+    "url": "https://github.com/huanmie913/css-handbook"
   },
   "bugs": {
-    "url": "https://github.com/doyoe/css-handbook/issues"
+    "url": "https://github.com/huanmie913/css-handbook/issues"
   },
   "licenses": [
     {
@@ -39,6 +39,7 @@
     "which": "^1.2.12"
   },
   "scripts": {
+    "dev": "npx vite preview --outDir=./",
     "update": "npm i --save-dev caniuse-db && npm run build",
     "test": "gulp lint",
     "build": "gulp"
